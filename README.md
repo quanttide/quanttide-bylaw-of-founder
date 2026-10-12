@@ -4,4 +4,4 @@
 
 ## 内容
 
-- [index.md](index.md) 量潮创始人章程：量潮创始人的特权及其绑定义务
+- [intro/index.md](intro/index.md) 量潮创始人基本章程：量潮创始人的特权及其绑定义务
