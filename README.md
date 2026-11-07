@@ -35,4 +35,5 @@ AI 阅读本仓，是为了先知道人与人之间签的是什么契约，才�
 - [language/index.md](language/index.md) 语用工程章程：各语言正式文档的一般规则
 - [language/chinese.md](language/chinese.md) 汉语语用工程章程：汉语的一般原则与细分禁止项目
 - [legal/media.md](legal/media.md) 自媒体账号章程：名义授权、主体资格与离职处置
-- [code/review.md](code/review.md) 人类可用性评分章程：代码评审章程的质量定义分篇——三条硬门槛、六维加权、实测覆盖率与修订纪律
+- [code/review.md](code/review.md) 人类可用性评分章程：代码评审的质量定义分篇——三条硬门槛、六维加权、实测覆盖率与修订纪律
+- [code/scope.md](code/scope.md) 改动范围章程：扩范围前先说清问题、概率与复杂度代价并征得同意
