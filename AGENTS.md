@@ -19,7 +19,8 @@ docs/bylaw/
 ├── intro/       创始人身份、特权与义务
 ├── language/    语用工程（总则与分篇）
 ├── legal/       名义授权与对外责任
-├── code/        代码评审（质量定义分篇）
+├── design/      可用性（UI/UX 质量定义分篇）
+├── code/        改动范围
 ├── README.md    本仓写什么 / 不写什么
 ├── CONTRIBUTING.md  新增与修订章程的流程
 └── CHANGELOG.md 版本记录
